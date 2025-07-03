@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etherbit282&label=Profile%20views&color=0e75b6&style=flat" alt="etherbit282" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etherbit282" alt="etherbit282" /></a> </p>
-
 - 🔭 I’m currently working on [Assult Cube Memory Editor!](https://github.com/etherbit282/AssultCube-Memory)
 
 - 🌱 I’m currently learning **C#**
